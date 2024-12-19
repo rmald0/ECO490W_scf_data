@@ -1,4 +1,4 @@
-scf_data <- read.csv("clean_scf_data.csv")
+scf_data <- read.csv("scf_data_clean.csv")
 
 thrift_reg <- lm(
   LTHRIFT ~
