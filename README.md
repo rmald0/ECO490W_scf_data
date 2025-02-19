@@ -1,6 +1,6 @@
 # How Does Financial Literacy Affect Retirement Savings Accounts?
 Regression analysis conducted for my research paper on the relationship between financial literacy and retirement savings. 
-The most recent Survey of Consumer Finance summary extract dataset (SCFP2022.csv) is used.
+The most recent Survey of Consumer Finances summary extract dataset (SCFP2022.csv) is used.
 Financial Literacy, is proxied by the correct number of "Big Three" questions answered correctly.
 Self reported knowledge of personal finances is also examined and an interaction term between the two is used. 
 I ran two regressions. The dependent variables are LTHRIFT (log of Thrift, 401(k) and 401(b) account balances) and LIRAKH (log of IRA/Keough account balances).
